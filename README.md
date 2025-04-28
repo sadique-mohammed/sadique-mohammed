@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sadique-mohammed/sadique-mohammed/master/name.svg" alt="Mohammed Sadique" />
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&width=435&lines=Full+Stack+Web+and+iOS+Developer;Upgrading+myself;1.5%2B+years+of+experience+" />
   </p>
 </div>
 
