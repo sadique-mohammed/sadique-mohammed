@@ -1,0 +1,81 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientText {
+				  0% {
+				    background-position: 0% 50%;
+				  }
+				  50% {
+				    background-position: 100% 50%;
+				  }
+				  100% {
+				    background-position: 0% 50%;
+				  }
+				}
+
+        .snowflake {
+          color: #fff;
+          font-size: 1.5em;
+          font-family: Arial, sans-serif;
+          text-shadow: 0 0 5px #000, 0 0 10px #fff;
+          opacity: 0.8;
+        }
+
+        h1 {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+          margin: 0;
+          font-size: 5em;
+          font-weight: 900;
+          letter-spacing: -0.05em;
+          text-align: center;
+          background: -webkit-linear-gradient(90deg, #ff6a00, #ff004c);
+          background: linear-gradient(135deg, #ff6a00, #ff004c);
+          background-size: 200%;
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradientText 4s ease infinite;
+        }
+
+        @keyframes snowflakes-fall {
+          0% { top: -10%; opacity: 0.9; }
+          100% { top: 100%; opacity: 0.3; }
+        }
+
+        @keyframes snowflakes-shake {
+          0% { transform: translateX(0); }
+          50% { transform: translateX(60px); }
+          100% { transform: translateX(0); }
+        }
+
+        .snowflake {
+          position: absolute;
+          z-index: 9999;
+          user-select: none;
+          animation: snowflakes-fall 10s linear infinite, snowflakes-shake 3s ease-in-out infinite;
+        }
+
+        .snowflake:nth-of-type(1) { left: 5%; animation-delay: 0s, 0.5s; }
+        .snowflake:nth-of-type(2) { left: 15%; animation-delay: 2s, 1s; }
+        .snowflake:nth-of-type(3) { left: 25%; animation-delay: 1s, 1.5s; }
+        .snowflake:nth-of-type(4) { left: 35%; animation-delay: 4s, 2s; }
+        .snowflake:nth-of-type(5) { left: 45%; animation-delay: 3s, 2.5s; }
+        .snowflake:nth-of-type(6) { left: 55%; animation-delay: 5s, 3s; }
+        .snowflake:nth-of-type(7) { left: 65%; animation-delay: 6s, 3.5s; }
+        .snowflake:nth-of-type(8) { left: 75%; animation-delay: 7s, 4s; }
+        .snowflake:nth-of-type(9) { left: 85%; animation-delay: 8s, 4.5s; }
+
+			</style>
+			<h1>Mohammed Sadique</h1>
+      <!-- Snowflakes -->
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❄</div>
+		</div>
+	</foreignObject>
+</svg>
