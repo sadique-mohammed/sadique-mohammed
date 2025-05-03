@@ -54,16 +54,18 @@
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <br/><br/><br/>
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed&" height="150" alt="GitHub Streak" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph" />
-</div>
-<br>
 
-<p align="center" >
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadique-mohammed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<br>
+<!--<div>-->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed&" height="150" alt="GitHub Streak" /> -->
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph" /> -->
+<!-- </div> -->
+<!-- <br> -->
+
+
+<!--<p align="center" >-->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadique-mohammed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+<!-- </p> -->
+<!-- <br> -->
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <!-- ## 👨‍💻 Repositories 👨‍💻 -->
@@ -107,11 +109,12 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadique-mohammed/mohammedsadique/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadique-mohammed/mohammedsadique/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammedsadique/sadique-mohammed/output/github-snake.svg" />
-</picture>
+
+<!--<picture>-->
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadique-mohammed/mohammedsadique/output/github-snake-dark.svg" /> -->
+<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadique-mohammed/mohammedsadique/output/github-snake.svg" /> -->
+<!--   <img alt="github-snake" src="https://raw.githubusercontent.com/mohammedsadique/sadique-mohammed/output/github-snake.svg" /> -->
+<!-- </picture> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You&center=true&size=30">
