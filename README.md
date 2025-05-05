@@ -7,21 +7,53 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 🎓 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 GGSIPU
-- 🛠 𝙿𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙳SA, Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Swift 𝚊𝚗𝚍 OS
-- 🌍 𝙻𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝙽𝚎𝚠 𝙳𝚎𝚕𝚑𝚒, 𝙸𝚗𝚍𝚒𝚊
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Mohammed Sadique
+located_in: Delhi, India
+current_job: Freelancing
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor's in Computer Science Engineering",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "DevOps",
+    "iOS Development",
+    "Machine Learning",
+    "UI/UX",
+  ]
+technical_background:
+  [
+    "Intern - Web Developer @Rablo",
+    "Intern - AI Trainer @Scale Ai" (currently),
+  ]
+  
+currently_learning: ["AWS, Docker, Kubernetes, and Go"]
+hobbies: ["Football", "Gaming", "Cinema", "Travelling", "Art", "Comedy"]
+```
+
+
+
+
 
 ## Let's Connect
-![](https://komarev.com/ghpvc/?username=mohammedsadique)
 <table>
 <tr>
 	<td><a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X"></a></td>
 	<td><a href="https://linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a></td>
 </tr>
 </table>
+
+
+![](https://komarev.com/ghpvc/?username=sadique-mohammed&abbreviated=true&base=793&color=blue)
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
 
 ## Technologies
  
