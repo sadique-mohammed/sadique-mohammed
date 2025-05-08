@@ -12,7 +12,7 @@
 ```yaml
 name: Mohammed Sadique
 located_in: Delhi, India
-current_job: Freelancing
+current_job: LLM Trainer(Part-time) & Full-Stack Web Developer
 education:
   [
     "Self-Taught Developer",
@@ -30,7 +30,8 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Web Developer @Rablo",
-    "Intern - AI Trainer @Scale Ai" (currently),
+    "Intern - Web Developer @SynthraLabs",
+    "Part-Time - LLM Trainer @ScaleLabs",
   ]
   
 currently_learning: ["AWS, Docker, Kubernetes, and Go"]
