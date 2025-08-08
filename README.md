@@ -88,8 +88,8 @@ hobbies: ["Football", "Gaming", "Cinema", "Travelling", "Art", "Comedy"]
 
 
 <div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed" height="150" alt="GitHub Streak" /> 
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph" /> 
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed" height="150" alt="GitHub Streak" /> 
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&hide_border=false" height="150" alt="languages graph" /> 
  </div> 
  <br> 
 
