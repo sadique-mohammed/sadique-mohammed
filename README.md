@@ -12,7 +12,7 @@
 ```yaml
 name: Mohammed Sadique
 located_in: Delhi, India
-current_job: Full-Stack Web Developer
+current_job: Full-Stack Developer
 education:
   [
     "Self-Taught Developer",
@@ -21,7 +21,7 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Full Stack Development",
     "DevOps",
     "iOS Development",
     "Machine Learning",
@@ -30,10 +30,10 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Web Developer @Rablo",
-    "Intern - Web Developer @SynthraLabs",
+	"LLM Trainer @Outlier AI"
   ]
   
-currently_learning: ["AWS, Docker, Kubernetes, and Go"]
+currently_learning: ["AWS, Docker, Linux, and Go"]
 hobbies: ["Football", "Gaming", "Cinema", "Travelling", "Art", "Comedy"]
 ```
 
@@ -45,7 +45,7 @@ hobbies: ["Football", "Gaming", "Cinema", "Travelling", "Art", "Comedy"]
 <table>
 <tr>
 	<td><a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X"></a></td>
-	<td><a href="https://linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a></td>
+	<td><a href="https://linkedin.com/in/mohammed-sadique20" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a></td>
 </tr>
 </table>
 
@@ -91,13 +91,13 @@ hobbies: ["Football", "Gaming", "Cinema", "Travelling", "Art", "Comedy"]
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed" height="150" alt="GitHub Streak" /> 
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&hide_border=false" height="150" alt="languages graph" /> 
  </div> 
- <br> 
+<br>
 
 
-<p align="center" >
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadique-mohammed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
- </p> 
- <br> 
+<!--<p align="center" > -->
+<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadique-mohammed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  -->
+<!--  </p>  -->
+<!--  <br>  -->
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <!-- ## 👨‍💻 Repositories 👨‍💻 -->
