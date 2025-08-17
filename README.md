@@ -87,17 +87,17 @@ hobbies: ["Football", "Gaming", "Cinema", "Travelling", "Art", "Comedy"]
 <br/><br/><br/>
 
 
-<div>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed" height="150" alt="GitHub Streak" /> 
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&hide_border=false" height="150" alt="languages graph" /> 
- </div> 
+<!-- <div>  -->
+<!--    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-mohammed" height="150" alt="GitHub Streak" />  -->
+<!--    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadique-mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&hide_border=false" height="150" alt="languages graph" />  -->
+<!--  </div>  -->
 <br>
 
 
-<!--<p align="center" > -->
-<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadique-mohammed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  -->
-<!--  </p>  -->
-<!--  <br>  -->
+<p align="center" >  
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadique-mohammed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>   
+  </p>   
+<br>   
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <!-- ## 👨‍💻 Repositories 👨‍💻 -->
