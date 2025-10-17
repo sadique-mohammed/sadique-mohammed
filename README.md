@@ -23,14 +23,13 @@ fields_of_interests:
   [
     "Full Stack Development",
     "DevOps",
-    "iOS Development",
-    "Machine Learning",
+    "AI Training",
     "UI/UX",
   ]
 technical_background:
   [
-    "Intern - Web Developer @Rablo",
-	"LLM Trainer @Outlier AI"
+    "Intern - Full Stack Web Developer",
+	"SWE Agents Trainer"
   ]
   
 currently_learning: ["AWS, Docker, Linux, and Go"]
