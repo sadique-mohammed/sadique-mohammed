@@ -28,15 +28,15 @@ writing verifiers, ranking RLHF tasks, that kind of thing.
 
 <!-- TODO: swap each TODO-REPO-SLUG below for the real github.com/sadique-mohammed/<repo> path -->
 
-**[RootCause AI](https://github.com/sadique-mohammed/TODO-REPO-SLUG)** &nbsp;·&nbsp; <samp>python, paramiko</samp><br>
+**[RootCause AI](https://github.com/sadique-mohammed/rootcause-ai)** &nbsp;·&nbsp; <samp>python, paramiko</samp><br>
 Diagnoses Linux incidents — nginx failures, disk exhaustion, OOM — over SSH,
 with every command checked against a hardcoded allowlist before it runs.
 
-**[RizzInterviews](https://github.com/sadique-mohammed/TODO-REPO-SLUG)** &nbsp;·&nbsp; <samp>next.js, postgres, genai</samp><br>
+**[RizzInterviews](https://github.com/sadique-mohammed/rizz-interviews)** &nbsp;·&nbsp; <samp>next.js, postgres, genai</samp><br>
 Mock interview platform. Feeds a transcript through an adaptive difficulty
 engine and gets back live DSA/web-dev questions with feedback, in real time.
 
-**[Relay](https://github.com/sadique-mohammed/TODO-REPO-SLUG)** &nbsp;·&nbsp; <samp>typescript, postgres, genai</samp><br>
+**[Relay](https://github.com/sadique-mohammed/relay-cli)** &nbsp;·&nbsp; <samp>typescript, postgres, genai</samp><br>
 CLI agent for natural-language dev tasks — code generation, web search,
 tool-calling — synced across devices over an OAuth device flow.
 
