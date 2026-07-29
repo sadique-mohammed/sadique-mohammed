@@ -1,98 +1,74 @@
-# Mohammed Sadique
-
 <div align="center">
-  <img src="assets/portrait.svg" width="940" alt="ASCII portrait of Mohammed Sadique" />
+
+<img src="./ascii.svg" width="460" alt="Mohammed Sadique"/>
+
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+[github.com/sadique-mohammed](https://github.com/sadique-mohammed) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/mohammed-sadique20) &nbsp;·&nbsp;
+[email](mailto:code.sadique@gmail.com)
+
 </div>
 
-<div align="center">
-  <img src="assets/summary.svg" width="940" alt="Profile summary" />
-</div>
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## About
+> Final-year CS student at GGSIPU, Delhi.<br>
+> Backend and AI evaluation, mostly — I ship things and see if they hold up.
 
-I build full-stack product applications, AI-assisted developer tools, and backend systems with a focus on shipping useful software.
+Most days that's <!-- TODO: link once the repo is public -->**RootCause AI**, a
+Linux incident agent that only ever runs commands off a fixed allowlist. Before
+that, a year evaluating and training coding models for Outlier AI / Shipd —
+writing verifiers, ranking RLHF tasks, that kind of thing.
 
-I prefer building:
-- full-stack product and application software
-- AI-assisted tools and workflows
-- backend systems with clean interfaces
-- small cloud-aware deployments over unnecessary infrastructure
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-## Experience
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; next.js &nbsp; react &nbsp; node &nbsp; postgres &nbsp; redis &nbsp; docker &nbsp; genai apis &nbsp; git &nbsp; linux</samp>
 
-<div align="center">
-  <img src="assets/experience.svg" width="940" alt="Experience" />
-</div>
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-## Featured Projects
+<!-- TODO: swap each TODO-REPO-SLUG below for the real github.com/sadique-mohammed/<repo> path -->
 
-### Tier 1
+**[RootCause AI](https://github.com/sadique-mohammed/TODO-REPO-SLUG)** &nbsp;·&nbsp; <samp>python, paramiko</samp><br>
+Diagnoses Linux incidents — nginx failures, disk exhaustion, OOM — over SSH,
+with every command checked against a hardcoded allowlist before it runs.
 
-<div align="center">
-  <img src="assets/projects/rizzinterviews.svg" width="460" alt="RizzInterviews" />
-  <img src="assets/projects/rootcause-ai.svg" width="460" alt="RootCause AI" />
-</div>
+**[RizzInterviews](https://github.com/sadique-mohammed/TODO-REPO-SLUG)** &nbsp;·&nbsp; <samp>next.js, postgres, genai</samp><br>
+Mock interview platform. Feeds a transcript through an adaptive difficulty
+engine and gets back live DSA/web-dev questions with feedback, in real time.
 
-<div align="center">
-  <img src="assets/projects/relay.svg" width="460" alt="Relay" />
-  <img src="assets/projects/zenith.svg" width="460" alt="Zenith" />
-</div>
+**[Relay](https://github.com/sadique-mohammed/TODO-REPO-SLUG)** &nbsp;·&nbsp; <samp>typescript, postgres, genai</samp><br>
+CLI agent for natural-language dev tasks — code generation, web search,
+tool-calling — synced across devices over an OAuth device flow.
 
-### Links
-
-- **RizzInterviews**: https://github.com/sadique-mohammed/rizz-interviews
-- **RootCause AI**: https://github.com/sadique-mohammed/rootcause-ai
-- **Relay**: https://github.com/sadique-mohammed/relay-cli
-- **Zenith**: https://github.com/sadique-mohammed/zenith-frontend · https://github.com/sadique-mohammed/zenith-backend · https://github.com/sadique-mohammed/zenith-extension
-
-## Skills
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
-  <img src="assets/skills-languages.svg" width="940" alt="Languages" />
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
 </div>
 
-<div align="center">
-  <img src="assets/skills-frontend.svg" width="940" alt="Frontend" />
-</div>
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-<div align="center">
-  <img src="assets/skills-backend.svg" width="940" alt="Backend" />
-</div>
+Every graphic here is generated, not embedded from anyone else's server.
+`ascii.svg` is a photo pushed through a character ramp by
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-<div align="center">
-  <img src="assets/skills-ai.svg" width="940" alt="AI" />
-</div>
+They animate with SMIL inside the SVG, because GitHub strips scripts from
+READMEs — and since nothing loads from a third party, nothing here can
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also
+strips CSS, so an image is the only way to put this page's own typeface on them.
 
-<div align="center">
-  <img src="assets/skills-cloud.svg" width="940" alt="Cloud and DevOps" />
-</div>
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters
+each graphic draws and inlined as base64. That isn't only for looks: the
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose
+default monospace is narrower would otherwise see it squeezed.
 
-<div align="center">
-  <img src="assets/skills-practices.svg" width="940" alt="Practices" />
-</div>
-
-## Achievements
-
-<div align="center">
-  <img src="assets/achievements.svg" width="940" alt="Achievements" />
-</div>
-
-## Currently Focused On
-
-- SWE / Full-stack product and application development
-- AI-powered developer tools and backend systems
-- Cloud fundamentals: Docker, Linux, GitHub Actions, AWS basics, Kubernetes basics
-
-## Contact
-
-<div align="center">
-  <img src="assets/contact.svg" width="940" alt="Contact" />
-</div>
-
-- Email: code.sadique@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mohammed-sadique20
-- GitHub: https://github.com/sadique-mohammed
-
----
-
-Repository generated from a config-driven profile engine so the README, assets, and workflow stay in sync.
+Language totals cover public repositories only. `year.svg` uses the portrait's
+character ramp: `:` `+` `#` `@`, quiet to loud.
