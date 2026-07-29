@@ -1,0 +1,185 @@
+{
+  "name": "Mohammed Sadique",
+  "username": "sadique-mohammed",
+  "headline": "Software Developer",
+  "subheadline": "Full-Stack Product/Application Developer",
+  "tagline": "AI plus some cloud knowledge",
+  "github_profile": "https://github.com/sadique-mohammed",
+  "email": "code.sadique@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/mohammed-sadique20",
+  "location": "Delhi, India",
+  "education": {
+    "school": "Guru Gobind Singh Indraprastha University",
+    "degree": "B.Tech. in Computer Science and Engineering",
+    "graduation": "May 2027",
+    "cgpa": "8.3/10"
+  },
+  "summary": "I build full-stack product applications, AI-assisted developer tools, and backend systems with a focus on shipping useful software.",
+  "experience": [
+    {
+      "company": "Shipd AI (DataCurve YC-24) \u00b7 Outlier AI",
+      "title": "Software Developer, Contract",
+      "period": "May 2025 - Apr 2026",
+      "location": "San Francisco \u00b7 Remote",
+      "bullets": [
+        "Engineered behavioural test verifiers and Dockerised evaluation environments, outperforming SWE-Bench Pro by 28x with 0.3% false-positive and 1.1% false-negative rates.",
+        "Co-authored DeepSWE, an evaluation benchmark spanning 16+ frontier models, by designing 15+ long-horizon tasks.",
+        "Reviewed and evaluated 60+ RLHF training tasks across Go, Java Spring Boot, and Python, improving model code correctness by 50%."
+      ]
+    },
+    {
+      "company": "Rablo.in",
+      "title": "Frontend Developer, Intern",
+      "period": "Nov 2024 - Feb 2025",
+      "location": "Delhi, India \u00b7 Remote",
+      "bullets": [
+        "Reduced Core Web Vitals (TBT, LCP, FCP) from 4.4s to 990ms using SSR, dynamic imports, and lazy loading.",
+        "Reduced bundle size by 70% from 750KB to 100KB using tree-shaking and dependency pruning.",
+        "Debugged and resolved 40+ bugs across 8 frontend modules, cutting user-reported issues by 30%."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "RizzInterviews",
+      "alias": "Flagship mock interview platform",
+      "tier": "Tier 1",
+      "period": "Mar 2026 - Apr 2026",
+      "repo": "https://github.com/sadique-mohammed/rizz-interviews",
+      "tech": "Next.js, TypeScript, PostgreSQL, Redis, Docker, GenAI APIs",
+      "bullets": [
+        "Eliminated async waterfalls and slow SQL queries, reducing latency from 5,000 ms to 500 ms.",
+        "Built an adaptive difficulty engine that prefetches question buffers, cutting API transition latency by 600ms.",
+        "Replaced dynamic imports with static compilation and Dockerised deployment, cutting serverless cold-start latency by 83% (8.3s to 1.4s)."
+      ]
+    },
+    {
+      "name": "RootCause AI",
+      "alias": "Linux incident diagnostic agent",
+      "tier": "Tier 1",
+      "period": "Apr 2026 - Jul 2026",
+      "repo": "https://github.com/sadique-mohammed/rootcause-ai",
+      "tech": "Python, Paramiko, Pydantic, Linux, Bash",
+      "bullets": [
+        "Enforced zero arbitrary remote execution by validating SSH commands against a hardcoded 19-command allowlist.",
+        "Architected an LLM diagnostic agent targeting 80% cold-run accuracy across 10 seeded Linux/networking incidents.",
+        "Engineered 3 reproducible Linux incident environments covering nginx failure, disk exhaustion, and OOM."
+      ]
+    },
+    {
+      "name": "Relay",
+      "alias": "AI agent CLI toolkit",
+      "tier": "Tier 1",
+      "period": "Nov 2025 - Dec 2025",
+      "repo": "https://github.com/sadique-mohammed/relay-cli",
+      "tech": "Next.js, TypeScript, PostgreSQL, Express, Auth, GenAI, REST APIs",
+      "bullets": [
+        "Built an AI agent CLI supporting natural-language commands, code generation, and web search through tool-calling.",
+        "Reduced repetitive developer setup time by 40% using an extensible plugin architecture.",
+        "Implemented OAuth 2.0 Device Flow with encrypted token persistence for secure cross-device session continuity."
+      ]
+    },
+    {
+      "name": "Zenith",
+      "alias": "Full-stack product suite",
+      "tier": "Tier 2",
+      "period": "2025",
+      "repo": "https://github.com/sadique-mohammed/zenith-frontend | https://github.com/sadique-mohammed/zenith-backend | https://github.com/sadique-mohammed/zenith-extension",
+      "tech": "Frontend, Backend API, Browser Extension",
+      "bullets": [
+        "A full-stack product split across frontend, backend, and extension layers.",
+        "Best fourth project for breadth, product thinking, and multi-repo coordination."
+      ]
+    }
+  ],
+  "skills": {
+    "Languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "Frontend": [
+      "HTML",
+      "CSS",
+      "React.js",
+      "Next.js",
+      "TailwindCSS",
+      "Redux",
+      "Zustand"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "MongoDB"
+    ],
+    "AI": [
+      "LLMs",
+      "RAG",
+      "LangChain",
+      "Vector Databases",
+      "Prompt Engineering",
+      "Evaluation"
+    ],
+    "Cloud & DevOps": [
+      "Docker",
+      "GitHub Actions",
+      "AWS fundamentals",
+      "Linux",
+      "Kubernetes basics",
+      "OpenShift",
+      "Ansible",
+      "RHEL"
+    ],
+    "Practices": [
+      "DSA",
+      "OOP",
+      "Code Review",
+      "Testing",
+      "Debugging",
+      "Technical Documentation",
+      "Agile"
+    ]
+  },
+  "achievements": [
+    "LeetCode: Max rating 2,236 Guardian, ranked 6,035 globally, solved 400+ problems.",
+    "1st Place - DevSprint Hackathon 2024.",
+    "1st Place - Live the Code 3.0.",
+    "Finalist - GfG Hackfest 2024 (top 8 / 3,500+).",
+    "Finalist - HackCBS 7.0 (top 10 / 350+ teams)."
+  ],
+  "contact": {
+    "email": "code.sadique@gmail.com",
+    "linkedin": "mohammed-sadique20",
+    "github": "sadique-mohammed"
+  },
+  "currently": [
+    "SWE / Full-stack product and application development",
+    "AI-powered developer tools and backend systems",
+    "Cloud fundamentals: Docker, Linux, GitHub Actions, AWS basics, Kubernetes basics"
+  ],
+  "stats": [
+    [
+      "Experience",
+      "1.5+ years"
+    ],
+    [
+      "Featured projects",
+      "4"
+    ],
+    [
+      "LeetCode",
+      "2,236"
+    ],
+    [
+      "Hackathons",
+      "4 finals / wins"
+    ]
+  ]
+}
