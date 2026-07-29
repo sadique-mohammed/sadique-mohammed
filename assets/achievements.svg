@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="248" viewBox="0 0 940 248">
+<rect x="1" y="1" rx="20" ry="20" width="938" height="246" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" rx="20" ry="20" width="6" height="246" fill="#f78166"/>
+<text x="44" y="36" fill="#f0f6fc" font-size="22" font-family="monospace" font-weight="700">Achievements</text>
+<text x="44" y="62" fill="#8b949e" font-size="14" font-family="monospace">Selected signals</text>
+<text x="44" y="90" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• LeetCode: Max rating 2,236 Guardian, ranked 6,035 globally, solved 400+ problems.</text>
+<text x="44" y="116" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• 1st Place - DevSprint Hackathon 2024.</text>
+<text x="44" y="142" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• 1st Place - Live the Code 3.0.</text>
+<text x="44" y="168" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Finalist - GfG Hackfest 2024 (top 8 / 3,500+).</text>
+<text x="44" y="194" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Finalist - HackCBS 7.0 (top 10 / 350+ teams).</text>
+</svg>
