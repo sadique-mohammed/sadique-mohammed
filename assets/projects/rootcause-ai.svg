@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="352" viewBox="0 0 460 352">
+<rect x="1" y="1" rx="20" ry="20" width="458" height="350" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" rx="20" ry="20" width="6" height="350" fill="#a371f7"/>
+<text x="44" y="36" fill="#f0f6fc" font-size="22" font-family="monospace" font-weight="700">RootCause AI</text>
+<text x="44" y="62" fill="#8b949e" font-size="14" font-family="monospace">Linux incident diagnostic agent</text>
+<text x="44" y="90" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Tier: Tier 1 · Apr 2026 - Jul 2026</text>
+<text x="44" y="116" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Tech: Python, Paramiko, Pydantic, Linux, Bash</text>
+<text x="44" y="142" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Enforced zero arbitrary remote execution by validating SSH commands against a</text>
+<text x="44" y="168" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• hardcoded 19-command allowlist.</text>
+<text x="44" y="194" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Architected an LLM diagnostic agent targeting 80% cold-run accuracy across 10 seeded</text>
+<text x="44" y="220" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Linux/networking incidents.</text>
+<text x="44" y="246" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Engineered 3 reproducible Linux incident environments covering nginx failure, disk</text>
+<text x="44" y="272" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• exhaustion, and OOM.</text>
+<text x="44" y="298" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Repo: https://github.com/sadique-mohammed/rootcause-ai</text>
+</svg>

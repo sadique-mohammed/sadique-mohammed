@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="352" viewBox="0 0 460 352">
+<rect x="1" y="1" rx="20" ry="20" width="458" height="350" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" rx="20" ry="20" width="6" height="350" fill="#f78166"/>
+<text x="44" y="36" fill="#f0f6fc" font-size="22" font-family="monospace" font-weight="700">Relay</text>
+<text x="44" y="62" fill="#8b949e" font-size="14" font-family="monospace">AI agent CLI toolkit</text>
+<text x="44" y="90" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Tier: Tier 1 · Nov 2025 - Dec 2025</text>
+<text x="44" y="116" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Tech: Next.js, TypeScript, PostgreSQL, Express, Auth, GenAI, REST APIs</text>
+<text x="44" y="142" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Built an AI agent CLI supporting natural-language commands, code generation, and web</text>
+<text x="44" y="168" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• search through tool-calling.</text>
+<text x="44" y="194" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Reduced repetitive developer setup time by 40% using an extensible plugin</text>
+<text x="44" y="220" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• architecture.</text>
+<text x="44" y="246" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Implemented OAuth 2.0 Device Flow with encrypted token persistence for secure</text>
+<text x="44" y="272" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• cross-device session continuity.</text>
+<text x="44" y="298" fill="#c9d1d9" font-size="16" font-family="monospace" xml:space="preserve">• Repo: https://github.com/sadique-mohammed/relay-cli</text>
+</svg>
